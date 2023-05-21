@@ -1,1 +1,1 @@
-# Parellel-and-Serial-Program
+# Parallel-and-Serial-Program
